@@ -544,6 +544,7 @@
 {"n": "TUILIERES", "lat": 44.84525, "lon": 0.63403, "up": "UP Centre", "geh": "GEH Dordogne"},
 {"n": "USSON", "lat": 42.75105, "lon": 2.08564, "up": "UP Sud-Ouest", "geh": "GEH Aude Ariège"},
 {"n": "VAL BENEYTE", "lat": 45.41614, "lon": 2.37192, "up": "UP Centre", "geh": "GEH Dordogne"},
+{"n": "VAL D'AZUN", "lat": 42.95844, "lon": -0.20831, "up": "UP Sud-Ouest", "geh": "GEH Adour et Gaves", "note": "Tête de groupement, pas une centrale"},
 {"n": "VAL D'ISERE", "lat": 45.453499, "lon": 6.96916, "up": "UP Alpes", "geh": "GEH Savoie Mont Blanc"},
 {"n": "VALABRES", "lat": 44.126562, "lon": 7.093313, "up": "UP Méditerranée", "geh": "GEH Var Roya"},
 {"n": "VALENTINE", "lat": 43.09672, "lon": 0.70089, "up": "UP Sud-Ouest", "geh": "GEH Garonne"},
