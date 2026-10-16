@@ -585,5 +585,6 @@
 {"n": "CPT DIRINON", "lat": 48.388804, "lon": -4.265463, "up": "Thermique", "geh": "CPT"},
 {"n": "CPT GENNEVILLIERS", "lat": 48.937185, "lon": 2.261755, "up": "Thermique", "geh": "CPT"},
 {"n": "CPT MARTIGUES-PONTEAU", "lat": 43.358402, "lon": 5.021321, "up": "Thermique", "geh": "CPT"},
-{"n": "CPT VAIRES SUR MARNE", "lat": 48.8724, "lon": 2.655403, "up": "Thermique", "geh": "CPT"}
+{"n": "CPT VAIRES SUR MARNE", "lat": 48.8724, "lon": 2.655403, "up": "Thermique", "geh": "CPT"},
+{"n": "LANGEVIN", "lat": -21.358063, "lon": 55.647188, "up": "SEI / PEI", "geh": "SEI", "r": "La Réunion"}
 ]
